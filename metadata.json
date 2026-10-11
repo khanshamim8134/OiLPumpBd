@@ -1,0 +1,6 @@
+{
+  "name": "Oil Pump BD",
+  "description": "Smart fuel station locator, digital payments, and station management system for customers, pump owners, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
